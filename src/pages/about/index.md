@@ -5,7 +5,7 @@ title: About our values
 ---
 ### Shade-grown coffee
 
-Testing the about page
+Testing the about page and if this will auto deploy onto the master branch
 
 ### Single origin
 
