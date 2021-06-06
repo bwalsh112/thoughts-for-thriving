@@ -1,33 +1,41 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: How has my diet evolved since 2017
 date: 2016-12-17T15:04:10.000Z
+description: "Since beginning the autoimmune protocol (AIP) in 2017, my meals
+  and perception of food has come a long way. "
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-tags:
-  - flavor
-  - tasting
+tags: []
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Getting started on AIP was very challenging
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Back in 2017, I remember beginning the autoimmune protocol very abruptly and walking around the grocery store having no idea what to buy. Looking back, it may have been helpful to ease into it, but when I begin something new, I like to go all out. 
 
-## What the updates mean to you
+I now can’t believe how difficult it was for me to come up with meals to eat. I could still eat tons of vegetables, but i guess i really just didn’t know what to do with them. I had recently graduated from college, and in college I never cooked, so I had very little practice when it came to preparing any sort of healthy meal. I also lived far away from family, so I didn’t have anyone to help me prepare foods or get started cooking for myself. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+One of the things I remember most about transitioning to AIP was cutting out coffee. Yes, this was another thing I did abruptly. I practically fell asleep at work. 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+I also began packing my lunch for work but didn’t really know what to bring. I had some very minimal salads that were basically just a bowl of kale because i didn’t know what to even put on them. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+I began relying very heavily on convenient foods like packaged sweet potato chips and apples. I also relied very heavily on meat. So I remember eating a LOT of apples and meat. 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+## Finding a go-to that worked for me
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Over time, I found a lot of recipes online that helped me get started, discovered a really great health food store that had beautiful produce that made me want to buy all of the fruits and vegetables, and I bought the correct tools (pots and pans) that I needed to cook food. I also began experimenting with flours such as tigernut and cassava flour to bake treats. 
+
+Then, for a long time, I made a lot of soups and stews because I was able to throw in some meat and tons of vegetables and have a pretty complete meal. This helped me out tremendously. My stews helped me to have food prepared for the whole week and to eat tons of vegetables that I might not know what to do with otherwise. 
+
+## The amazing benefits of fruits and vegetables and how I think about food today
+
+I began learning about the amazing healing properties of fruits and vegetables. Appreciating different fruits and vegetables individually and understanding how they could help to nourish my body is largely what shifted my mentality from “oh no what am I supposed to eat” to almost feeling overwhelmed by all of the amazing foods I wanted to incorporate into my meals each day. 
+
+Today, I rely much less heavily on meat. I mostly eat fruits and vegetables, and I eat some meat and seafood as well. I have started incorporating non-AIP foods in as well. I eat hemp seeds and peas and yellow potatoes, and other foods that I love. 
+
+While I don't make my soups and stews as much as I used to, I still go back to them every once in a while. I now find myself throwing together a lot of salads with a homemade tahini dressing or steaming some vegetables to have with my dinner. Every once in a while I'll follow a recipe but I definitely like to keep it simple. 
+
+Having taken out many foods for so long and then adding them back in actually made me appreciate them more. For example, before I would have never appreciated a bowl of steamed peas, but now I eat a bowl of steamed peas and indulge in every bite. In general, I’ve come to appreciate food, how it tastes, and how it can nourish my body so much more than I ever would have had I not been diagnosed with Hashimoto’s. 
+
+I rely less heavily on processed foods now (even AIP and paleo compliant ones) because they just don’t make my body feel as good. With that said, as I’ve been on this journey I continuously discover more and more companies that make snack foods that I buy and appreciate every once in a while.
